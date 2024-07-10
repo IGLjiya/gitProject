@@ -1,0 +1,19 @@
+git config --global user.name "IGLjiya"
+git config --global user.email "althfrhmn@gmail.com"
+
+git init
+git add .
+git remote add origin "https://github.com/IGLjiya/gitProject.git"
+git commit -m "commit label"
+git push -u origin master
+
+
+
+
+from second commit 
+
+-------------
+
+git add .
+git commit -m "label"
+git push
