@@ -17,3 +17,25 @@ from second commit
 git add .
 git commit -m "label"
 git push
+
+
+clone
+----------
+git clone ""
+
+
+branch creation 
+--------------
+git status   //check branch
+git branch "branchName"
+git checkout "branchName"
+
+git add .
+git commit -m "label"
+git push -u origin "branchname"
+
+
+
+pull request
+--------
+git pull "url"
