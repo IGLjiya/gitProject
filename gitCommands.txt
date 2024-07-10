@@ -26,10 +26,10 @@ git clone ""
 
 branch creation 
 --------------
-git status   //check brack
-git branch branchName
-git checkout branchName
+git status   //check branch
+git branch "branchName"
+git checkout "branchName"
 
 git add .
 git commit -m "label"
-git push -u origin branchname
+git push -u origin "branchname"
